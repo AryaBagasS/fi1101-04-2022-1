@@ -2,5 +2,5 @@
 lecture notes on fi1101 class 04 semester 1 in academic year 2022
 
 
-## notes
+## note
 + linear momentum
