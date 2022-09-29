@@ -3,12 +3,12 @@ lecture notes on fi1101 class 04 semester 1 in academic year 2022
 
 
 ## notes
-+ `w01` kinematics 1
-+ `w02` kinematics 2
-+ `w03` dynamics 1
-+ `w04` dynamics 2
-+ `w05` work and energy
-+ `w06` linear momentum
++ `w01` [kinematics 1](01)
++ `w02` [kinematics 2](02)
++ `w03` [dynamics 1](03)
++ `w04` [dynamics 2](04)
++ `w05` [work and energy](05)
++ `w06` [linear momentum](06)
 + `w07` rigid body 1
 + `w08` rigid body 2
 + `w09` elasticity and oscillation
