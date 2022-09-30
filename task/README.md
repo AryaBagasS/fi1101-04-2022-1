@@ -3,4 +3,4 @@ task for student
 
 
 ## open
-+ `03-oct-2022 0900` Register to GitHub, fork this repo, and comment on [task 01](#1).
++ `03-oct-2022 0900` Register to GitHub, fork this repo, and comment on [task 1](issue/1).
