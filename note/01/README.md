@@ -7,7 +7,7 @@ week 1
 **Topik** | Kinematika Benda Titik
 **Sub-topik** | Overview Fisika, Review, Vektor, Posisi, Kecepatan dan Percepatan.
 **Capaian** | Setelah mengikuti kuliah, mahasiswa diharapkan memahami dan dapat menggunakan konsep-konsep vektor, dapat memahami posisi, kecepatan dan percepatan baik secara grafis maupun secara rumusan (persamaan) matematik.
-
+||
 
 ## materi
 + [Aturan Perkuliahan](ap-ab-v180822.pdf)
