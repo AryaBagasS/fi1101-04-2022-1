@@ -12,6 +12,7 @@ week 5
 
 ## materi
 + [Usaha](https://bugx.vercel.app/pages/0240.html)
++ [Konsep energi](energy-concept.md)
 + [Usaha dan energi](work-energy-20220919-v7.pdf)
 + [Usaha dan energi: Contoh soal (tutorial)](work-energy-problem-20220921-v2.pdf)
 + [Diskusi Tutorial 3: Kinematika, Dinamika, Usaha dan Energi (Soal)](tutorial-week-3-20220921_v4.pdf)
