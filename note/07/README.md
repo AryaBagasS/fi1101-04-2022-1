@@ -10,9 +10,13 @@ week 7
 
 
 ## materi
-+ Menghitung panjang kurva
++ [Persamaan parametrik](text/parametric-equation.md)
++ [Menghitung panjang kurva](text/length.md)
+  + [Panjang busur lingkaran](text/length-arc.md)
 + [Menghitung luas](text/area.md)
   + [Luas segitiga](text/area-triangle.md)
++ Massa benda tegar
++ Titik pusat massa sistem benda tegar
 + Sistem benda tegar
 + Gaya dan torsi
 + Statika sistem benda tegar
