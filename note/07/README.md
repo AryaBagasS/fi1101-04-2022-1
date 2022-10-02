@@ -10,6 +10,8 @@ week 7
 
 
 ## materi
++ Menghitung luas
+  + [Luas segitiga](text/triangle-area.md)
 + Sistem benda tegar
 + Gaya dan torsi
 + Statika sistem benda tegar
