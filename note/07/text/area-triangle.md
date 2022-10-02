@@ -1,4 +1,4 @@
-# triangle-area
+# area-triangle
 calculate area of triangle
 
 
@@ -7,20 +7,6 @@ Suatu segitiga dengan panjang alas $l$ dan tinggi $t$ akan memiliki luas
 
 $$\tag{1}
 A = \tfrac12 lt.
-$$
-
-
-## area
-Luas suatu area dalam koordinat kartesian dihitung melalui
-
-$$\tag{2}
-A = \int dA = \int \int (dx) (dy)
-$$
-
-dan dalam koordinat polar
-
-$$\tag{3}
-A = \int dA = \int \int (dr) (r d\theta).
 $$
 
 
@@ -36,5 +22,5 @@ $$
 
 
 ## dicussion
-1. Tunjukkan bahwa dengan menggunakan Persamaan (2) keempat gambar sebelummya akan memberikan hasil luas segitiga yang sama.
+1. Tunjukkan bahwa dengan menggunakan $A = \int \int dy \ dx$ ketiga gambar terakhir akan memberikan hasil luas segitiga yang sama seperti diberikan Persamaan (1).
 2. Manakah menurut pendapat Anda cara yang paling sederhana dari kasus pada Gambar 2 - 4? Jelaskan alasannya.
