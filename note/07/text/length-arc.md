@@ -42,7 +42,7 @@ untuk $y$.
 Panjang busur dari Persamaan (2a) dan (2b) dapat dihitung dengan
 
 $$\tag{4}
-L = \int ds = \int \sqrt{1 + \left(\frac{dy}{dt}\right)^2}  dt = \int \sqrt{1 + \left(\frac{dy}{dx}\right)^2} dt,
+L = \int ds = \int \sqrt{1 + \left(\frac{dy}{dt}\right)^2}  dt = \int \sqrt{1 + \left(\frac{dy}{dx}\right)^2} dx,
 $$
 
 menggunakan $x = t$, sedangkan dari Persamaan (3a) dan (3b) dapat dihitung dengan

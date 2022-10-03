@@ -12,7 +12,7 @@ week 7
 ## materi
 + [Persamaan parametrik](text/parametric-equation.md)
 + [Menghitung panjang kurva](text/length.md)
-  + [Panjang busur lingkaran](text/length-arc.md)
+  + [Panjang busur lingkaran](text/length-arc.md): [1](text/length-arch-1.md)
 + [Menghitung luas](text/area.md)
   + [Luas segitiga](text/area-triangle.md)
 + Massa benda tegar
