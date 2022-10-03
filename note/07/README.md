@@ -27,7 +27,7 @@ week 7
 
 
 ## comment and discussion
-+ Issue [2]((https://github.com/dudung/fi1101-04-2022-1/issues/2)
++ Issue [2](https://github.com/dudung/fi1101-04-2022-1/issues/2)
 
 
 ## vicon

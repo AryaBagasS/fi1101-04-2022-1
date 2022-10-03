@@ -15,5 +15,10 @@ week 6
 + [Modul tutorial 4 momentum linier](module-04-a.pdf)
 
 
+## comment and discussion
++ Issue [1](https://github.com/dudung/fi1101-04-2022-1/issues/1)
++ Task [1](../../task/01/README.md)
+
+
 ## vicon
 + Zoom [92774948019](https://itb-ac-id.zoom.us/j/92774948019?pwd=WVVBRllUQlpabkVmdXJ3d1hvNmtBUT09)
