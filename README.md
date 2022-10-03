@@ -19,3 +19,7 @@ lecture notes on fi1101 class 04 semester 1 in academic year 2022
 + `w14` laws of thermodynamics 2
 + `w15` research based learning 1
 + `w16` research based learning 2
+
+
+## lecturer
++ [Sparisoma Viridi](todo/img/fi1101-04-2022-1.png)

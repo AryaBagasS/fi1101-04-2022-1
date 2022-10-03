@@ -37,4 +37,4 @@ $$\tag{4}
 \end{array}
 $$
 
-Bagian akhir Persamaan (4) perlu dipecahkan terlebih dahulu.
+Bagian akhir, di dalam integral, Persamaan (4) perlu dipecahkan terlebih dahulu.
