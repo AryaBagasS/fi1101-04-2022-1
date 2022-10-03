@@ -4,9 +4,9 @@ week 16
 <span> | <span>
 :- | :-
 **Minggu** | 05/10 - 09/12
-**Topik** | 
-**Sub-topik** | -
-**Capaian** | -
+**Topik** | Refleksi perkuliahan
+**Sub-topik** | Diskusi dan forum bebas terkendali.
+**Capaian** | Mendapatkan informasi dari peserta untuk perbaikan.
 
 
 ## materi
