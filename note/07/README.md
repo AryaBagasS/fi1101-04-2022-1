@@ -26,5 +26,9 @@ week 7
   + [B01](text/b01.md), [B02](text/b02.md), [B03](text/b03.md), [B04](text/b04.md), [B05](text/b05.md), [B06](text/b06.md), [B07](text/b07.md), [B08](text/b08.md), [B09](text/b09.md), [B10](text/b10.md)
 
 
+## comment and discussion
++ Issue [2]((https://github.com/dudung/fi1101-04-2022-1/issues/2)
+
+
 ## vicon
 + Zoom [92774948019](https://itb-ac-id.zoom.us/j/92774948019?pwd=WVVBRllUQlpabkVmdXJ3d1hvNmtBUT09)
