@@ -17,6 +17,7 @@ week 7
   + [Luas segitiga](text/area-triangle.md)
 + Massa benda tegar
 + Titik pusat massa sistem benda tegar
+  + [Contoh titik pusat massa](text/com-example.md)
 + Sistem benda tegar
 + Gaya dan torsi
 + Statika sistem benda tegar
