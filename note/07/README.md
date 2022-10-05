@@ -27,6 +27,8 @@ week 7
   + [B01](text/b01.md), [B02](text/b02.md), [B03](text/b03.md), [B04](text/b04.md), [B05](text/b05.md), [B06](text/b06.md), [B07](text/b07.md), [B08](text/b08.md), [B09](text/b09.md), [B10](text/b10.md)
 + Catatan di papan tulis:
   + [3 Oktober 2022](text/blackboard-03oct2022.md)
+  + [5 Oktober 2022](text/blackboard-05oct2022.md)
+
 
 ## comment and discussion
 + Issue [2](https://github.com/dudung/fi1101-04-2022-1/issues/2)
