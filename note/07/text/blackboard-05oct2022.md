@@ -11,7 +11,7 @@ notes on the blackboard on 5 oct 2022
 
 
 <div style="border: 1px solid #000; padding: 1em; background-color: #000; color: #fff; background-image: url('../img/blackboard-tile.png'); background-repeat: repeat; height: 400px; width: 600px;">
-IV. Momen inersia sitem kontinu
+IV. Momen inersia sistem kontinu
 </div>
 <br />
 
