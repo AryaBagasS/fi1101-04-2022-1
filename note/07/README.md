@@ -28,7 +28,9 @@ week 7
 + Catatan di papan tulis:
   + [3 Oktober 2022](text/blackboard-03oct2022.md)
   + [5 Oktober 2022](text/blackboard-05oct2022.md)
-
++ Tambahan:
+  + [c01](text/c01.md)
+  
 
 ## comment and discussion
 + Issue [2](https://github.com/dudung/fi1101-04-2022-1/issues/2)
