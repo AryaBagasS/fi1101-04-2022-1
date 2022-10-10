@@ -13,7 +13,9 @@ week 8
 + Katrol bermassa
 + Batang tergelincir
 + Silinder dan bola menggelinding
-+ Hukum kekekalan momemtum sudut
++ Hukum kekekalan momentum sudut
++ [Catatan di papan tulis](text/blackbloard-note.md)
++ [Contoh katrol](text/pulley-labtek-x.md)
 
 
 ## vicon
