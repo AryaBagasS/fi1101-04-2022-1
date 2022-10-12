@@ -1,5 +1,5 @@
 # blackboard-note
-notes on blackboard written during lecture
+notes on blackboard written during lecture on monday
 
 ![](../img/blackboard-10oct2022-1.jpg)
 

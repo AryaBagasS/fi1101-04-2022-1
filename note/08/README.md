@@ -14,7 +14,8 @@ week 8
 + Batang tergelincir
 + Silinder dan bola menggelinding
 + Hukum kekekalan momentum sudut
-+ [Catatan di papan tulis](text/blackbloard-note.md)
++ [Catatan di papan tulis 1](text/blackbloard-note.md)
++ [Catatan di papan tulis 2](text/blackbloard-note-2.md)
 + [Contoh katrol](text/pulley-labtek-x.md)
 
 
