@@ -17,7 +17,7 @@ week 8
 + [Catatan di papan tulis 1](text/blackbloard-note.md)
 + [Catatan di papan tulis 2](text/blackbloard-note-2.md)
 + [Contoh katrol](text/pulley-labtek-x.md)
-+ Contoh dari kelas lain: [NS](pdf/kuis_2_ns.pdf)
++ Contoh dari kelas lain: [Kuis 2 (NS)](text/kuis_2_ns.md)
 
 ## comment and discussion
 + Issue [4](https://github.com/dudung/fi1101-04-2022-1/issues/4) -- interaksi saat kuliah
