@@ -1,5 +1,5 @@
 # kuis_2_ns
-Lembar soal kuis [Kuis_2_NS](pdf/kuis_2_ns.pdf)
+Lembar soal kuis [Kuis_2_NS (Dr. Dra. Neni Surtiyeni, M.Si.)](pdf/kuis_2_ns.pdf)
 
 ## soal 1
 ![](../img/soal-1-ns.png)
