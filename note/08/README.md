@@ -17,11 +17,12 @@ week 8
 + [Catatan di papan tulis 1](text/blackbloard-note.md)
 + [Catatan di papan tulis 2](text/blackbloard-note-2.md)
 + [Contoh katrol](text/pulley-labtek-x.md)
-
++ [Contoh kelas lain](pdf/kuis_2_ns.pdf)
 
 ## comment and discussion
 + Issue [4](https://github.com/dudung/fi1101-04-2022-1/issues/4) -- interaksi saat kuliah
 + Issue [5](https://github.com/dudung/fi1101-04-2022-1/issues/5) -- pertanyaan tutorial
+
 
 ## vicon
 + Zoom [92774948019](https://itb-ac-id.zoom.us/j/92774948019?pwd=WVVBRllUQlpabkVmdXJ3d1hvNmtBUT09)
