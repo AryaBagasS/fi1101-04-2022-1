@@ -1,17 +1,22 @@
 # kuis_2_ns
-Soal [Kuis_2_NS](pdf/kuis_2_ns.pdf)
+Lembar soal kuis [Kuis_2_NS](pdf/kuis_2_ns.pdf)
 
 ## soal 1
+![](../img/soal-1-ns.png)
 ..
 
 ## soal 2
+![](../img/soal-2-ns.png)
 ..
 
 ## soal 3
+![](../img/soal-3-ns.png)
 ..
 
 ## soal 4
+![](../img/soal-4-ns.png)
 ..
 
 ## soal 5
+![](../img/soal-5-ns.png)
 ..
