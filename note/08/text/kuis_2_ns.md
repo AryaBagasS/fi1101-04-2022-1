@@ -4,7 +4,7 @@ Lembar soal kuis [Kuis_2_NS (Dr. Dra. Neni Surtiyeni, M.Si.)](../pdf/kuis_2_ns.p
 ## soal 1
 ![](../img/soal-1-ns.png)
 
-+ [Jawab a](ans_kuis_2_no_1a.md)
++ [Jawab a](ans_kuis_2_ns_no_1a.md)
 
 ## soal 2
 ![](../img/soal-2-ns.png)
