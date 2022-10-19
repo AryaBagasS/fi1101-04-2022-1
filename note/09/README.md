@@ -12,6 +12,8 @@ week 9
 ## materi
 + ..
 
+## diskusi
++ Issue [6](https://github.com/dudung/fi1101-04-2022-1/issues/6)
 
 ## vicon
 + Zoom [92774948019](https://itb-ac-id.zoom.us/j/92774948019?pwd=WVVBRllUQlpabkVmdXJ3d1hvNmtBUT09)
