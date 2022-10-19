@@ -10,7 +10,7 @@ week 9
 
 
 ## materi
-+ ..
++ [Catatan di papan tulis Rabu, 19 Oktober 2022](text/blackboard-19oct2022.md)
 
 
 ## vicon
