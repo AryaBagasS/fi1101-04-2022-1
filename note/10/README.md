@@ -10,7 +10,8 @@ week 10
 
 
 ## materi
-+ ..
++ [persamaan gelombang](https://github.com/dudung/xeqn/blob/main/src/0011.md)
++ [solusi persamaan gelombang](https://github.com/dudung/xeqn/blob/main/src/0012.md)
 
 
 ## diskusi dan komunikasi
