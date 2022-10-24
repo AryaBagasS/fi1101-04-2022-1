@@ -14,6 +14,7 @@ week 10
 + [solusi persamaan gelombang](https://github.com/dudung/xeqn/blob/main/src/0012.md)
 + [gelombang stasioner: superposisi dua gelombang merambant berlawanan arah](https://github.com/dudung/xeqn/blob/main/src/0013.md)
 + [frekuensi dan panjang gelombang pada string](https://github.com/dudung/xeqn/blob/main/src/0014.md)
++ [catatan papan tulis 24 Oktober 2022](text/bb-24oct2022.md)
 
 
 ## diskusi dan komunikasi
