@@ -10,6 +10,7 @@ week 9
 
 
 ## materi
++ [Catatan di papan tulis Senin, 17 Oktober 2022](https://github.com/dudung/fi1101-04-2022-1/issues/6#issuecomment-1285004909) -- direkam oleh [mfthn](https://github.com/mfthn)
 + [Catatan di papan tulis Rabu, 19 Oktober 2022](text/blackboard-19oct2022.md)
 
 ## diskusi
