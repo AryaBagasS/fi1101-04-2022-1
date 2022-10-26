@@ -17,10 +17,10 @@ week 10
 + [catatan papan tulis 24 Oktober 2022](text/bb-24oct2022.md)
 + [gelombang stasioner: superposisi](https://github.com/dudung/xeqn/blob/main/src/0013.md)
 + [gelombang stasioner pada tali dengan dua ujung tetap](https://github.com/dudung/xeqn/blob/main/src/0014.md)
-+ [Efek Doppler: tanpa efek Doppler](https://github.com/dudung/xeqn/blob/main/src/0018.md)
-+ [Efek Doppler: pengamat bergerak](https://github.com/dudung/xeqn/blob/main/src/0017.md)
-+ [Efek Doppler: sumber bergerak](https://github.com/dudung/xeqn/blob/main/src/0016.md)
 + [catatan papan tulis 26 Oktober 2022](text/bb-26oct2022.md)
++ [efek Doppler: tanpa efek Doppler](https://github.com/dudung/xeqn/blob/main/src/0018.md)
++ [efek Doppler: pengamat bergerak](https://github.com/dudung/xeqn/blob/main/src/0017.md)
++ [efek Doppler: sumber bergerak](https://github.com/dudung/xeqn/blob/main/src/0016.md)
 
 
 ## diskusi dan komunikasi
