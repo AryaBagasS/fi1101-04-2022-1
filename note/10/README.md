@@ -20,6 +20,7 @@ week 10
 + [Efek Doppler: tanpa efek Doppler](https://github.com/dudung/xeqn/blob/main/src/0018.md)
 + [Efek Doppler: pengamat bergerak](https://github.com/dudung/xeqn/blob/main/src/0017.md)
 + [Efek Doppler: sumber bergerak](https://github.com/dudung/xeqn/blob/main/src/0016.md)
++ [catatan papan tulis 26 Oktober 2022](text/bb-26oct2022.md)
 
 
 ## diskusi dan komunikasi
