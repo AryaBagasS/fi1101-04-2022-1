@@ -20,8 +20,10 @@ week 11
 ## refs
 + [Presure concept at HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/Precon.html) -- Carl Rod Nave
 + [Arcimedes principle at Encyclopaedia Britannica](https://www.britannica.com/science/Archimedes-principle) -- The Editors of Encyclopaedia Britannica, Gregersen, Gaur, Lotha, Augustyn, Rodriguez
-+ [Tekanan fluida statis dan hukum Pascal](https://www.youtube.com/watch?v=p9p6GEQCze0) -- Neny Kurniasih
-+ [Prinsip Archimedes](https://www.youtube.com/watch?v=SKDgjEoCI6k) -- Nina Siti Aminah
-+ [Persamaan kontinuitas](https://www.youtube.com/watch?v=Lf3JNPoBDPk) -- Novitrian
-+ [Prinsip Bernoulli dan analisis persoalan](https://www.youtube.com/watch?v=rY7P1gLkIuA) -- Nur Asiah Aprianti
-+ [Viewing buoyant force as an application of principle of minimum potential energy](https://doi.org/10.1088/1742-6596/1816/1/012110) -- J. Sabaryati, L. S. Utami, A. W. Hasanah, S. Viridi
++ [Tekanan fluida statis dan hukum Pascal](https://www.youtube.com/watch?v=p9p6GEQCze0) -- Neny Kurniasih \*
++ [Prinsip Archimedes](https://www.youtube.com/watch?v=SKDgjEoCI6k) -- Nina Siti Aminah \*
++ [Persamaan kontinuitas](https://www.youtube.com/watch?v=Lf3JNPoBDPk) -- Novitrian \*
++ [Prinsip Bernoulli dan analisis persoalan](https://www.youtube.com/watch?v=rY7P1gLkIuA) -- Nur Asiah Aprianti \*
++ [Viewing buoyant force as an application of principle of minimum potential energy](https://doi.org/10.1088/1742-6596/1816/1/012110) -- J. Sabaryati, L. S. Utami, A. W. Hasanah, S. Viridi \*
+
+\* Pengajar Fisika, FMIPA, ITB
