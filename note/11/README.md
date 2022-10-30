@@ -15,3 +15,6 @@ week 11
 
 ## vicon
 + Zoom [92774948019](https://itb-ac-id.zoom.us/j/92774948019?pwd=WVVBRllUQlpabkVmdXJ3d1hvNmtBUT09)
+
+## refs
++ [Presure concept at HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/Precon.html)
