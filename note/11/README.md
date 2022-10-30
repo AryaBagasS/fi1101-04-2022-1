@@ -19,6 +19,7 @@ week 11
 
 ## refs
 + [Presure concept at HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/Precon.html) -- Carl Rod Nave
++ [Arcimedes principle at Encyclopaedia Britannica](https://www.britannica.com/science/Archimedes-principle) -- The Editors of Encyclopaedia Britannica, Gregersen, Gaur, Lotha, Augustyn, Rodriguez
 + [Tekanan fluida statis dan hukum Pascal](https://www.youtube.com/watch?v=p9p6GEQCze0) -- Neny Kurniasih
 + [Prinsip Archimedes](https://www.youtube.com/watch?v=SKDgjEoCI6k) -- Nina Siti Aminah
 + [Persamaan kontinuitas](https://www.youtube.com/watch?v=Lf3JNPoBDPk) -- Novitrian
