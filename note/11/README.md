@@ -26,4 +26,4 @@ week 11
 + [Prinsip Bernoulli dan analisis persoalan](https://www.youtube.com/watch?v=rY7P1gLkIuA) -- Nur Asiah Aprianti \*
 + [Viewing buoyant force as an application of principle of minimum potential energy](https://doi.org/10.1088/1742-6596/1816/1/012110) -- J. Sabaryati, L. S. Utami, A. W. Hasanah, S. Viridi \*
 
-\* Pengajar Fisika, FMIPA, ITB
+\* Pengajar Program Studi Fisika, FMIPA, ITB
