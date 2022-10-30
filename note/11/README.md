@@ -24,3 +24,4 @@ week 11
 + [Prinsip Archimedes](https://www.youtube.com/watch?v=SKDgjEoCI6k) -- Nina Siti Aminah
 + [Persamaan kontinuitas](https://www.youtube.com/watch?v=Lf3JNPoBDPk) -- Novitrian
 + [Prinsip Bernoulli dan analisis persoalan](https://www.youtube.com/watch?v=rY7P1gLkIuA) -- Nur Asiah Aprianti
++ [Viewing buoyant force as an application of principle of minimum potential energy](https://doi.org/10.1088/1742-6596/1816/1/012110) -- J. Sabaryati, L. S. Utami, A. W. Hasanah, S. Viridi
