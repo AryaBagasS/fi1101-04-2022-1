@@ -13,9 +13,11 @@ week 11
 + [Catatan papan tulis 31 Oktober 2022]()
 
 
-## vicon
+## vicon dan komunikasi
 + Zoom [92774948019](https://itb-ac-id.zoom.us/j/92774948019?pwd=WVVBRllUQlpabkVmdXJ3d1hvNmtBUT09)
-
++ Senin, 31 Oktober 2022 -- Issue [10](https://github.com/dudung/fi1101-04-2022-1/issues/10)
++ Rabu, 2 November 2022 -- Issue [11](https://github.com/dudung/fi1101-04-2022-1/issues/11)
++ Kamis, 4 November 2022 -- Issue [12](https://github.com/dudung/fi1101-04-2022-1/issues/12)
 
 ## refs
 + [Presure concept at HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/Precon.html) -- Carl Rod Nave
