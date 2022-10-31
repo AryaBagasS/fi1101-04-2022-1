@@ -10,7 +10,7 @@ week 11
 
 
 ## materi
-+ Catatan papan tulis 31 Oktober 2022
++ [Catatan papan tulis 31 Oktober 2022](text/cat-bb-31oct2022.md)
 + Catatan papan tulis 2 November 2022
 + Catatan 4 November 2022
 

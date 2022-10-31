@@ -1,0 +1,12 @@
+# cat-bb-31oct2022
+![](../img/bb-31oct2022-1.jpg)
+
+![](../img/bb-31oct2022-2.jpg)
+
+![](../img/bb-31oct2022-3.jpg)
+
+![](../img/bb-31oct2022-4.jpg)
+
+![](../img/bb-31oct2022-5.jpg)
+
+![](../img/bb-31oct2022-6.jpg)
