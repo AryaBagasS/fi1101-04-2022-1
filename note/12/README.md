@@ -10,7 +10,18 @@ week 12
 
 
 ## materi
-+ ..
++ temperatur (see [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/temper.html#c1))
++ [panas](https://bugx.vercel.app/pages/0160.html) dan [transfer panas](https://bugx.vercel.app/pages/0161.html).
++ [teori kinetik gas](https://bugx.vercel.app/pages/0130.html)
++ [gas ideal](https://bugx.vercel.app/pages/0131.html)
++ [keadaan, proses, siklus](https://bugx.vercel.app/pages/0132.html)
++ [proses istimewa](https://bugx.vercel.app/pages/0133.html)
++ [energi internal](https://bugx.vercel.app/pages/0134.html)
++ [kapasitas panas](https://bugx.vercel.app/pages/0135.html): [contoh](https://bugx.vercel.app/pages/0901.html)
++ [opsi penggambaran siklus](https://bugx.vercel.app/pages/0901.html)
++ [kerja](https://bugx.vercel.app/pages/0901.html)
+
+
 
 ### tutorial
 + [gelombang mekanik: soal dan pembahasan](tutorial) -- [soal (pdf)](https://cdn-edunex.itb.ac.id/43779-Elementary-Physics-IA-Parallel-Class/117335-Fluida-Statik-dan-Dinamik/1667616635556_SOAL-Modul-6-Fidas-IA_2022-2023-revisi.pdf)
