@@ -18,8 +18,8 @@ week 12
 + [proses istimewa](https://bugx.vercel.app/pages/0133.html)
 + [energi internal](https://bugx.vercel.app/pages/0134.html)
 + [kapasitas panas](https://bugx.vercel.app/pages/0135.html): [contoh](https://bugx.vercel.app/pages/0901.html)
-+ [opsi penggambaran siklus](https://bugx.vercel.app/pages/0901.html)
-+ [kerja](https://bugx.vercel.app/pages/0901.html)
++ [opsi penggambaran siklus](https://bugx.vercel.app/pages/0136.html)
++ [kerja](https://bugx.vercel.app/pages/0240.html)
 
 
 
