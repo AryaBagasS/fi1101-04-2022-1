@@ -12,7 +12,9 @@ week 12
 ## materi
 + ..
 
-
+### tutorial
++ [gelombang mekanik](https://cdn-edunex.itb.ac.id/43779-Elementary-Physics-IA-Parallel-Class/117335-Fluida-Statik-dan-Dinamik/1667616635556_SOAL-Modul-6-Fidas-IA_2022-2023-revisi.pdf)
+  
 ## komunikasi
 + Issue [13](https://github.com/dudung/fi1101-04-2022-1/issues/13) -- Senin, 7 November 2022
 + Issue [14](https://github.com/dudung/fi1101-04-2022-1/issues/14) -- Rabu, 9 November 2022
