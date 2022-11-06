@@ -13,5 +13,11 @@ week 12
 + ..
 
 
+## komunikasi
++ Issue [13](https://github.com/dudung/fi1101-04-2022-1/issues/13) -- Senin, 7 November 2022
++ Issue [14](https://github.com/dudung/fi1101-04-2022-1/issues/14) -- Rabu, 9 November 2022
++ Issue [15](https://github.com/dudung/fi1101-04-2022-1/issues/15) -- Kamis, 10 November 2022
+
+
 ## vicon
 + Zoom [92774948019](https://itb-ac-id.zoom.us/j/92774948019?pwd=WVVBRllUQlpabkVmdXJ3d1hvNmtBUT09)
