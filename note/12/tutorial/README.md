@@ -1,0 +1,2 @@
+# tutorial
+gelombang mekanik
