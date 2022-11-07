@@ -10,7 +10,7 @@ week 12
 
 
 ## materi
-+ temperatur (see [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/temper.html#c1))
++ [temperatur](text/temperatur.md) (see also [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/temper.html#c1))
 + [panas](https://bugx.vercel.app/pages/0160.html) dan [transfer panas](https://bugx.vercel.app/pages/0161.html).
 + [teori kinetik gas](https://bugx.vercel.app/pages/0130.html)
 + [gas ideal](https://bugx.vercel.app/pages/0131.html)
@@ -24,7 +24,10 @@ week 12
 
 
 ### tutorial
-+ [gelombang mekanik: soal dan pembahasan](tutorial) -- [soal (pdf)](https://cdn-edunex.itb.ac.id/43779-Elementary-Physics-IA-Parallel-Class/117335-Fluida-Statik-dan-Dinamik/1667616635556_SOAL-Modul-6-Fidas-IA_2022-2023-revisi.pdf)
++ elastisitas, osilasi, gelombang mekanik: 
+  - modul: [06](https://cdn-edunex.itb.ac.id/43779-Elementary-Physics-IA-Parallel-Class/117335-Fluida-Statik-dan-Dinamik/1667616635556_SOAL-Modul-6-Fidas-IA_2022-2023-revisi.pdf)
+  - pertanyaan: [A01](tutorial/a01.md) - [A02](tutorial/a02.md) - [A03](tutorial/a03.md) - [A04](tutorial/a04.md) - [A05](tutorial/a05.md)
+  - soal: [B01](tutorial/b01.md) - [B02](tutorial/b02.md) - [B03](tutorial/b03.md) - [B04](tutorial/b04.md) - [B05](tutorial/b05.md) - [B06](tutorial/b06.md) - [B07](tutorial/b07.md) - [B08](tutorial/b08.md) - [B09](tutorial/b09.md) - [B10](tutorial/b10.md)
   
 ## komunikasi
 + Issue [13](https://github.com/dudung/fi1101-04-2022-1/issues/13) -- Senin, 7 November 2022
