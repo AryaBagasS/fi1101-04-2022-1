@@ -5,6 +5,8 @@
 
 
 ## Penentuan anggota kelompok
+Akses tautan terkait kelompok masing-masing dan lengkapi.
+
 + [Kelompok 1]()
 + [Kelompok 2]()
 + [Kelompok 3]()
