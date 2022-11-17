@@ -21,6 +21,8 @@ week 13
   
 ## rbl
 + [Modul Mobil Bertenaga Pendulum](https://cdn-edunex.itb.ac.id/43779-Elementary-Physics-IA-Parallel-Class/117337-Research-Based-Learning-Semester-I-2022-2023/1667699305346_Modul-RBL-FI1101-FI1102-Fisika-Dasar-2022.pdf)
++ [Pembagian kelompok RBL](text/rbl-groups.md)
++ [Beberapa contoh](text/rbl-examples.md)
 
 ## komunikasi
 + Issue [16](https://github.com/dudung/fi1101-04-2022-1/issues/16) -- Pertemuan Senin, 14 November 2022
