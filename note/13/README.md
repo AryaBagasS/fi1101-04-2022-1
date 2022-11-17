@@ -11,6 +11,7 @@ week 13
 
 ## materi
 + [Catatan di kelas 14 November 2022, 0710-0835](text/nobb-14nov2022.md)
++ [Catatan di kelas 16 November 2022, 0703-0830](text/nobb-16nov2022.md)
 
 
 ## tutorial
