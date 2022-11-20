@@ -10,7 +10,7 @@ week 14
 
 
 ## materi
-+ ..
++ [Kuis luring 1](text/q.md)
 
 
 ## vicon
