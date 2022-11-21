@@ -12,7 +12,7 @@ Sebuah katrol yang dapat dianggap sebagai sebuah silinder pejal dengan jari-jari
 + Tentukan energi kinetik akhir dari benda bermassa $m_L$, $M$, dan $m_R$. [[Nilai: 3]()]
 
 
-# q2
+## q2
 Sebuah benda bermassa $m = 10 \ {\rm g}$ terikat pada pegas dengan konstanta $k$ dan berada di atas lantar mendatar licin. Sumbu $x$ dipilih sejajar dengan bidang lantai dan arah positif dipilih menuju kanan. Panjang mula-mula pegas $l_0 = 10 \ {\rm cm}$. Percepatan gravitasi adalah $g = 10 \ {\rm m/s^2}$. Persamaan diferensial $\displaystyle \frac{d^2 x}{dt^2} + \omega^2 x = 0$ memiliki solusi $x(t) = A \sin (\omega t + \varphi_0)$.
 
 + Tentukan konstanta pegas $k$ bila panjang pegas menjadi $l = 10.1 \ {\rm cm}$ saat pegas diberi beban bermassa $m$ dan digantung secara vertikal. [[Nilai: 2]()]
