@@ -12,6 +12,7 @@ week 14
 ## materi
 + [Catatan papan tulis 21 November 2022](text/nobb-21nov2022.md)
 + [Kuis luring 1](text/q.md)
++ [Kuis luring 1](img/q-kulu2.md)
 
 
 ## diskusi dan komunikasi
