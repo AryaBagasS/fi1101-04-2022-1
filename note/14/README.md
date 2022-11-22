@@ -16,6 +16,8 @@ week 14
 
 ## diskusi dan komunikasi
 + Issue [30](https://github.com/dudung/fi1101-04-2022-1/issues/30) -- Senin, 21 November 2022
++ Issue [31](https://github.com/dudung/fi1101-04-2022-1/issues/31) -- Rabu, 23 November 2022
++ Issue [32](https://github.com/dudung/fi1101-04-2022-1/issues/32) -- Kamis, 24 November 2022
 
 
 ## vicon
