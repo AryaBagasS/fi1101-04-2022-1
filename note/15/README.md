@@ -10,7 +10,7 @@ week 15
 
 
 ## materi
-+ ..
++ [Catatan papan tulis Senin, 28 November 2022](text/bbn-20221128.md)
 
 
 ## komunikasi
