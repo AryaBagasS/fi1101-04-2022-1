@@ -11,7 +11,8 @@ week 15
 
 ## materi
 + [Catatan papan tulis Senin, 28 November 2022](text/bbn-20221128.md)
-
++ [Module RBL (revisi)](pdf/Modul_RBL-Sem1-2022-Revisi.pdf)
++ [Form Penilaian RBL](pdf/Form_Penilaian_RBL-Sem1-2022.pdf)
 
 ## komunikasi
 + Issue [33](https://github.com/dudung/fi1101-04-2022-1/issues/33) -- Senin, 28 November 2022
